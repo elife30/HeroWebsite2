@@ -13,9 +13,9 @@ public class GitKnowladge {
     //path copyalamak icin : projeye sag tikla- open in -folder-option klavyede bas
     ///Users/elife/Code/cucumberHeroWebsite/HeroWebsite
 
-    //class02
+    //class02 klasor olusturma .git,local repoya gondermek icin
     /*
-    Git init
+    Git init  --bir kere kullan klasor olusturmada
     Git status
     Git add . (All data) or Git add “file name”
     Git commit -m “your commit message ”
@@ -28,10 +28,13 @@ public class GitKnowladge {
 
     //class03
     /*
-    git remote add origin “url copyla”
-    git remote -v
+    git remote add origin “url copyla” --bir kere bag kurmalik
+    git remote -v  -- bag kurulmus mu kontrol etmelik
     git branch -M main
     git push -u origin main
+     */
+    /*
+    
      */
 
 }
