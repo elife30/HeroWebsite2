@@ -37,4 +37,24 @@ public class GitKnowladge {
        touch .gitignore
      */
 
+    //class04
+    /*
+     git stash -m **name**
+     git stash list
+     git stash apply 1
+
+ git stash -m ”**name2**”
+ conflict cikarsa—-appy number de istemedigini sil.
+      git stash -u
+
+git stash drop index
+git stash pop index
+fetch
+     */
+
+    //class05
+    /*
+    
+     */
+
 }

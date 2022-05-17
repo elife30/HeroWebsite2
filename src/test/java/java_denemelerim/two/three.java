@@ -9,6 +9,7 @@ public class three {
         System.out.println("hello");
         System.out.println("IT world ");
         System.out.println("my world");
+        System.out.println("yeniden yeniden yeniden baslamak lazim");
 
 
             
